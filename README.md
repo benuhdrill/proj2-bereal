@@ -26,3 +26,4 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough
+![bereal2](https://github.com/user-attachments/assets/a9038bef-58e9-4b07-8e6f-38f6c1a73c19)
