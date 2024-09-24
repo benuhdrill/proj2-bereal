@@ -1,5 +1,5 @@
 # Project 2 - *BeReal*
-Date of submission: 9/24/24
+
 Submitted by: **Ben Gmach**
 
 **BeReal** is part 1 of a two-part project which clones some of the main functionalities of the trending app called BeReal.
